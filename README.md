@@ -16,7 +16,6 @@ OpoQ Chatbot is a modern, multi-provider chatbot interface built with **Streamli
 
 ## 🖼️ Screenshots
 
-> Replace the links below with your actual screenshot paths
 
 ### 🔹 Home Page
 
